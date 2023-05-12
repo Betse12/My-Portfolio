@@ -328,7 +328,7 @@ body {
   margin-left: 16px;
 }
 
-.start{
+.start {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -337,50 +337,52 @@ body {
   height: 44px;
   margin-top: 25px;
   margin-left: 16px;
-  background: #DB4747;
-  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+  background: #db4747;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
   border-radius: 4px;
 }
 
-.about-me{
+.about-me {
   width: 238px;
   height: 238px;
   margin-top: 48px;
   margin-left: 41px;
   padding-top: 1px;
   background: #212123;
-  box-shadow: 0px 1.91837px 23.0204px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 1.91837px 23.0204px rgba(0, 0, 0, 0.25);
   border-radius: 4px;
 }
 
-.circle img{
+.circle img {
   margin-top: 24px;
   margin-left: 24px;
 }
 
-.programming-languages h2{
-  color: #FFFFFF;
+.programming-languages h2 {
+  color: #fff;
   font-size: 16px;
   margin-top: 24px;
   margin-left: 24px;
 }
-.ul{
+
+.ul {
   margin-top: 14px;
   margin-left: 24px;
 }
-.programming-languages li{
+
+.programming-languages li {
   font-family: 'Poppins', sans-serif;
   letter-spacing: -0.0525em;
-  color: #7D7C84;
+  color: #7d7c84;
   font-size: 14px;
 }
 
-.frameworks{
+.frameworks {
   width: 238px;
   height: 238px;
   margin-top: 48px;
   margin-left: 41px;
   background: #212123;
-  box-shadow: 0px 1.91837px 23.0204px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 1.91837px 23.0204px rgba(0, 0, 0, 0.25);
   border-radius: 4px;
 }
